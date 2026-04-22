@@ -1,3 +1,4 @@
+<img width="1920" height="1100" alt="1" src="https://github.com/user-attachments/assets/5ce10d43-50e2-41bf-8439-9691f500bf6a" />
 🚀 DataCLI — Mini SQL Engine in Python
 A command-line data processing tool built using pure Python (no external libraries).
 This project simulates basic SQL-like operations such as filtering, sorting, grouping, and querying CSV data.
@@ -56,4 +57,7 @@ Web UI version
 
 🙌 Author
 Built by Arpit
+
+<img width="1920" height="1100" alt="1" src="https://github.com/user-attachments/assets/df207209-4a3b-4141-906f-cb6cfc6ff009" />
+
 
