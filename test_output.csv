@@ -1,0 +1,9 @@
+region,product,category,sales,profit,date
+West,Laptop,Technology,1200,200,2023-01-15
+West,Chair,Furniture,300,50,2023-02-12
+West,Pen,Office Supplies,50,10,2023-03-15
+West,Mouse,Technology,200,40,2023-04-10
+West,Table,Furniture,550,100,2023-05-01
+West,Notebook,Office Supplies,140,30,2023-05-10
+West,Monitor,Technology,1150,240,2023-06-01
+West,Paper,Office Supplies,55,12,2023-06-10

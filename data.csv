@@ -1,0 +1,31 @@
+region,product,category,sales,profit,date
+West,Laptop,Technology,1200,200,2023-01-15
+East,Phone,Technology,800,150,2023-01-20
+South,Tablet,Technology,600,100,2023-02-05
+North,Laptop,Technology,1500,300,2023-02-10
+West,Chair,Furniture,300,50,2023-02-12
+East,Table,Furniture,450,80,2023-03-01
+South,Sofa,Furniture,700,120,2023-03-05
+North,Desk,Furniture,500,90,2023-03-10
+West,Pen,Office Supplies,50,10,2023-03-15
+East,Notebook,Office Supplies,120,25,2023-03-20
+South,Printer,Technology,900,180,2023-04-01
+North,Monitor,Technology,1100,220,2023-04-05
+West,Mouse,Technology,200,40,2023-04-10
+East,Keyboard,Technology,180,35,2023-04-12
+South,Binder,Office Supplies,60,15,2023-04-15
+North,Paper,Office Supplies,40,8,2023-04-18
+West,Table,Furniture,550,100,2023-05-01
+East,Chair,Furniture,350,60,2023-05-03
+South,Laptop,Technology,1300,250,2023-05-05
+North,Phone,Technology,900,170,2023-05-08
+West,Notebook,Office Supplies,140,30,2023-05-10
+East,Printer,Technology,950,200,2023-05-12
+South,Desk,Furniture,480,85,2023-05-15
+North,Sofa,Furniture,750,140,2023-05-18
+West,Monitor,Technology,1150,240,2023-06-01
+East,Mouse,Technology,220,45,2023-06-03
+South,Keyboard,Technology,210,40,2023-06-05
+North,Binder,Office Supplies,70,18,2023-06-08
+West,Paper,Office Supplies,55,12,2023-06-10
+East,Pen,Office Supplies,65,14,2023-06-12
