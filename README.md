@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="flow" src="https://github.com/user-attachments/assets/ffe79c63-ca87-49e3-b163-a5def0657ec4" />
+<img width="1266" height="894" alt="flowcli" src="https://github.com/user-attachments/assets/26959489-e749-4502-8233-345ce4f8484e" />
 <img width="1920" height="1100" alt="1" src="https://github.com/user-attachments/assets/5ce10d43-50e2-41bf-8439-9691f500bf6a" />
 <img width="1920" height="1100" alt="2" src="https://github.com/user-attachments/assets/e9e74ee1-8c75-4d53-adf7-0fbbd33a98aa" />
 <img width="1920" height="1100" alt="3" src="https://github.com/user-attachments/assets/1789e9d6-fd5c-4ca0-8255-a27601b28f02" />
