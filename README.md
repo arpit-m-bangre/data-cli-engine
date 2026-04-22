@@ -62,6 +62,6 @@ Web UI version
 🙌 Author
 Built by Arpit
 
-<img width="1920" height="1100" alt="1" src="https://github.com/user-attachments/assets/df207209-4a3b-4141-906f-cb6cfc6ff009" />
+
 
 
